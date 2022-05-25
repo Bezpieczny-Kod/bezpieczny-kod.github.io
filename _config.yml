@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            'Bezpieczny Kod'
 tagline:          'Blog'
 description:      'Pomagamy zapewniać bezpieczeństwo na każdym etapie cyklu wytwórczego.'
-url:              http://blog.bezpiecznykod.pl
+url:              http://bezpieczny-kod.github.io
 baseurl:          /
 
 author:
