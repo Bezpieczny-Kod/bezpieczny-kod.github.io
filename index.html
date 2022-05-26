@@ -14,7 +14,9 @@ title: Home
 
     <span class="post-date">{{ post.date | date: "%d/%m/%Y" }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+
+    <a href="{{ post.url }}">Czytaj więcej →</a>
   </div>
   {% endfor %}
 </div>
