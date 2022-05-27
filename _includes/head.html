@@ -9,7 +9,7 @@
   <title>{% if page.title == 'Home' %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; Blog.bezpiecznykod.pl{% endif %}</title>
   <meta name="description" content="{% if page.title == 'Home' %}{{ site.description }}{% else %}{{ page.description }}{% endif %}">
 
-  <meta property="og:url" content="https://blog.bezpiecznykod.pl">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{% if page.title == 'Home' %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; Blog.bezpiecznykod.pl{% endif %}">
   <meta property="og:description" content="{% if page.title == 'Home' %}{{ site.description }}{% else %}{{ page.description }}{% endif %}">
@@ -17,7 +17,7 @@
 
   <meta name="twitter:card" content="summary_large_image">
   <meta property="twitter:domain" content="blog.bezpiecznykod.pl">
-  <meta property="twitter:url" content="https://blog.bezpiecznykod.pl">
+  <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
   <meta name="twitter:title" content="{% if page.title == 'Home' %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; Blog.bezpiecznykod.pl{% endif %}">
   <meta name="twitter:description" content="{% if page.title == 'Home' %}{{ site.description }}{% else %}{{ page.description }}{% endif %}">
   <meta name="twitter:image" content="https://blog.bezpiecznykod.pl/public/og_logo.png">
