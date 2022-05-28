@@ -26,7 +26,7 @@ HTML defines a long list of available inline tags, a complete list of which can 
 - <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
 - Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
 
-Most of these elements are styled by browsers with few modifications on our part.
+Most of these elements are styled by browsers with few modifications on our part <sup id="fnref:1"><a href="#fn:1">1</a></sup>.
 
 ## Heading
 
@@ -125,3 +125,14 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+
+# Footnotes
+
+<!-- Footnote List -->
+<div class="footnotes">
+  <ol>
+    <li class="footnote" id="fn:1">
+      <p>footnote. <a href="#fnref:1" title="return to article"> ↩</a></p>
+    </li>
+  </ol>
+</div>
