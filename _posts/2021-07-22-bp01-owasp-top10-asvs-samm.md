@@ -163,6 +163,8 @@ Na początku mówiąc o tym czym jest ASVS wspomniałem o "zapewnianiu odpowiedn
 
 Wchodząc bardziej szczegółowo w poszczególne poziomy możemy określić pewne ich właściwości.
 
+![ASVS poziom 1 (L1)](/public/ASVS-level-1.png 'ASVS poziom 1 (L1)')
+
 Wymagania ASVS na poziomie 1 rekomendowane są dla projektów z niskim zapotrzebowaniem na bezpieczeństwo. Ten poziom to takie niezbędne minimum. Co więcej poziom 1 można w dużej mierze —ale nie 100%— testować automatycznie.
 
 Wymagania na poziomie 1 pokrywają całość OWASP Top 10 z roku 2017 (za wyjątkiem A10, czyli logowania) oraz OWASP Proactive Controls 2018. Oznacza to tyle, że jeżeli zaadaptujemy ASVS już na poziomie 1 jako standard w procesie bezpiecznego wytwarzania (np. jako podstawę testów bezpieczeństwa) to będziemy mieć z głowy praktycznie cały Top 10.
@@ -181,9 +183,13 @@ I właśnie dlatego autorzy mocno zachęcają do testowania bezpieczeństwa pode
 Uwaga: Tutaj nie chodzi o podejście white-box – podejście hybrydowe to co innego, wyjaśnię różnicę w przyszłych odcinkach podcastu <sup id="fnref:3"><a href="#fn:3">3</a></sup>.
 </div>
 
+![ASVS poziom 2 (L2)](/public/ASVS-level-2.png 'ASVS poziom 2 (L2)')
+
 Wymagania ASVS na poziomie 2 kierowane są do aplikacji wykonujących ważne operacje biznesowe (np. przetwarzanie danych osobowych w kontekście RODO). Ten poziom jest rekomendowany dla większości aplikacji.
 
 Spełnienie ASVS na poziomie 2 zapewnia, że w aplikacji są obecne kontrole bezpieczeństwa skutecznie broniące przed większością podatności.
+
+![ASVS poziom 3 (L3)](/public/ASVS-level-3.png 'ASVS poziom 3 (3)')
 
 Natomiast ASVS na poziomie 3 —czyli najwyższym— rekomenduje się dla aplikacji krytycznych, na przykład:
 
