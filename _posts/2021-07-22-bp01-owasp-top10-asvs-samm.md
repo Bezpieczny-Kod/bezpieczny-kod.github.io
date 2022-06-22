@@ -37,6 +37,8 @@ Mała uwaga zanim przejdę do omawiania projektów: Pod koniec odcinka zrobię p
 
 # OWASP Top 10
 
+![OWASP Top 10 logo](/public/TOP_10_logo.png 'OWASP Top 10 logo')
+
 OWASP Top 10 to lista dziesięciu najczęściej wystepujących słabości (weaknesses) w web aplikacjach. To, że jest to lista Top-10 wskazuje na jakiś rodzaj sortowania i rzeczywiście OWASP Top 10 jest posortowany przez ryzyko w kontekście typowej organizacji. Innymi słowy OWASP Top 10 nadaje krytyczność danej słabości dzięki czemu jako odbiorca wiemy, że np. "A1: Wstrzyknięcia" dla typowej organizacji powinien być większym problemem niż "A10: Niewystarczające logowanie i monitorowanie".
 
 Krótkie wyjaśnienie terminów, bo autorzy dokumentu sami mają z tym problemy i używają ich wymiennie:
