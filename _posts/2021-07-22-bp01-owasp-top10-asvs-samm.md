@@ -12,7 +12,7 @@ Transkrypcja w formie artykułu pierwszego odcinka podcastu [Bezpieczna Produkcj
 
 Odcinek możesz przesłuchać poniżej lub na wszystkich większych platformach, m.in. [Spotify](https://bezpiecznykod.pl/spotify), [Apple Podcasts](https://bezpiecznykod.pl/apple) czy [Google Podcasts](https://bezpiecznykod.pl/google).
 
-<iframe src="https://open.spotify.com/embed/episode/6DawYXgpZEvv6h0b5PPIOh" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6DawYXgpZEvv6h0b5PPIOh?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 # Spis treści
 
