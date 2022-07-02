@@ -12,7 +12,7 @@ Transkrypcja w formie artykułu pierwszego odcinka podcastu [Bezpieczna Produkcj
 
 Odcinek możesz przesłuchać poniżej lub na wszystkich większych platformach, m.in. [Spotify](https://bezpiecznykod.pl/spotify), [Apple Podcasts](https://bezpiecznykod.pl/apple) czy [Google Podcasts](https://bezpiecznykod.pl/google).
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6DawYXgpZEvv6h0b5PPIOh?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<div id="buzzsprout-player-8904725"></div><script src="https://www.buzzsprout.com/1667851/8904725-wszystko-co-musisz-wiedziec-o-projektach-owasp-top-10-asvs-i-samm-bp01.js?container_id=buzzsprout-player-8904725&player=small" type="text/javascript" charset="utf-8"></script>
 
 # Spis treści
 
