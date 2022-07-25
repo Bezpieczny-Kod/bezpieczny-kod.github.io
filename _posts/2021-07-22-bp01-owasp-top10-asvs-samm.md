@@ -318,7 +318,7 @@ Warto również zauważyć, że omawiając te 3 flagowe projekty przechodziliśm
       <p>Najnowsze wydanie OWASP Top 10 w wersji 2021 jest już dostępne. <a href="#fnref:1" title="powrót do artykułu"> ↩</a></p>
     </li>
     <li class="footnote" id="fn:2">
-      <p>O projektach OWASP Proactive Controls i Cheat Sheet Series możesz posłuchać w <a href="https://bezpiecznykod.pl/bp02" target="_blank">odcinku drugim</a>. <a href="#fnref:2" title="powrót do artykułu"> ↩</a></p>
+      <p>O projektach OWASP Proactive Controls i Cheat Sheet Series możesz posłuchać w <a href="/owasp-wstg-mstg-opc-ocss/" target="_blank">odcinku drugim</a>. <a href="#fnref:2" title="powrót do artykułu"> ↩</a></p>
     </li>
     <li class="footnote" id="fn:3">
       <p>O podejściach black-box, white-box, gray-box czy hybrydzie możesz posłuchać w <a href="https://bezpiecznykod.pl/bp05" target="_blank">odcinku piątym</a>. <a href="#fnref:3" title="powrót do artykułu"> ↩</a></p>
