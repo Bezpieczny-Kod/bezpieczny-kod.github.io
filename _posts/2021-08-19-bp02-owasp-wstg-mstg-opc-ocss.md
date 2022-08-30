@@ -285,7 +285,7 @@ Cheat Sheet Series to zestaw ściągawek opisujący najlepsze praktyki do rozwi�
 
 Omawiane projekty OWASP i inne:
 
-- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/){:target="_blank"}{:target="_blank"}
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/){:target="_blank"}
 - [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/){:target="_blank"}
 - [OWASP Mobile Application Security Verification Standard](https://github.com/OWASP/owasp-masvs){:target="_blank"}
 - [OWASP Top 10 Proactive Controls](https://owasp.org/www-project-proactive-controls/){:target="_blank"}
