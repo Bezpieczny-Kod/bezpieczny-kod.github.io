@@ -25,9 +25,9 @@ Odcinek możesz przesłuchać poniżej lub na wszystkich większych platformach,
 
 # Wprowadzenie
 
-W [odcinku pierwszym](/owasp-top10-asvs-samm/) omówiłem flagowe projekty OWASP, czyli Top 10, Application Security Verification Standard oraz Software Assurance Maturity Model. 
+W [odcinku pierwszym](/owasp-top10-asvs-samm/){:target="_blank"} omówiłem flagowe projekty OWASP, czyli Top 10, Application Security Verification Standard oraz Software Assurance Maturity Model. 
 
-Natomiast w [odcinku drugim](/owasp-wstg-mstg-opc-ocss/) omówiłem mniej znane, ale równie ważne projekty takie jak Web Security Testing Guide, Mobile Security Testing Guide, Top 10 Proactive Controls oraz Cheat Sheet Series.
+Natomiast w [odcinku drugim](/owasp-wstg-mstg-opc-ocss/){:target="_blank"} omówiłem mniej znane, ale równie ważne projekty takie jak Web Security Testing Guide, Mobile Security Testing Guide, Top 10 Proactive Controls oraz Cheat Sheet Series.
 
 Jeżeli to co przed chwilą powiedziałem nie mówi Ci totalnie nic to dobrze byłoby zacząć od przesłuchania odcinków poprzednich.
 
@@ -41,7 +41,7 @@ Oczywiście gadać możemy sobie ile chcemy, ale zrozumienie bierze się z dzia�
 
 OWASP Zed Attack Proxy —czyli ZAP, bo w zasadzie nikt nie używa pełnej nazwy— jest darmowym skanerem web aplikacji o otwartym kodzie źródłowym. Na nieszczęście ZAP napisany jest w Javie, ale na szczęście to koniec jego minusów. Ok, suche żarty na bok.
 
-ZAP-a można używać zarówno w wydaniu manualnym jak i automatycznym. A więc ZAP przyda się wtedy kiedy tester ma za zadanie przetestować bezpieczeństwo web aplikacji (np. pod kątem WSTG, o którym mówiłem w [odcinku poprzednim](/owasp-wstg-mstg-opc-ocss/)) jak i wtedy kiedy chcemy wbudować podstawowe skany bezpieczeństwa w potok CICD.
+ZAP-a można używać zarówno w wydaniu manualnym jak i automatycznym. A więc ZAP przyda się wtedy kiedy tester ma za zadanie przetestować bezpieczeństwo web aplikacji (np. pod kątem WSTG, o którym mówiłem w [odcinku poprzednim](/owasp-wstg-mstg-opc-ocss/){:target="_blank"}) jak i wtedy kiedy chcemy wbudować podstawowe skany bezpieczeństwa w potok CICD.
 
 A jak to konkretnie działa? ZAP jest narzędziem typu proxy – w wydaniu manualnym tester wpina go pomiędzy przeglądarkę a web aplikację przez co jest w stanie rejestrować całość pętli zapytanie-odpowiedź. Dzięki temu może w prosty sposób modyfikować wysyłane dane takie jak nagłówki czy parametry.
 
