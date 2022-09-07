@@ -12,7 +12,7 @@ Transkrypcja w formie artykułu trzeciego odcinka podcastu [Bezpieczna Produkcja
 
 Odcinek możesz przesłuchać poniżej lub na wszystkich większych platformach, m.in. [Spotify](https://bezpiecznykod.pl/spotify), [Apple Podcasts](https://bezpiecznykod.pl/apple) czy [Google Podcasts](https://bezpiecznykod.pl/google).
 
-<div id="buzzsprout-player-9042563"></div><script src="https://www.buzzsprout.com/1667851/9042563-inne-projekty-owasp-warte-poznania-czyli-krotko-o-wstg-mstg-opc-i-ocss-bp02.js?container_id=buzzsprout-player-9042563&player=small" type="text/javascript" charset="utf-8"></script>
+<div id="buzzsprout-player-9241142"></div><script src="https://www.buzzsprout.com/1667851/9241142-narzedzia-techniczne-owasp-ktore-warto-miec-w-swoim-arsenale-bp03.js?container_id=buzzsprout-player-9241142&player=small" type="text/javascript" charset="utf-8"></script>
 
 # Spis treści
 
